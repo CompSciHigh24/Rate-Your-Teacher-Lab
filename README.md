@@ -1,6 +1,8 @@
-# Unit 5: Lesson 17 - CSH Teachers Lab
-
-## 12 Points
+# Unit 5: Lesson 17 - CSH Teachers Lab [12 Points 
+Before you start: 
+- Make sure you add your own SRV string!
+- The database should be called CSHteachers
+- Create the correct folders and put the files in the right place
 
 ### teachers.ejs [3 pts]
 - Files and nav bar have correct links/urls [1 pt]
